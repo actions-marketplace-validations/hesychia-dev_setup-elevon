@@ -1,4 +1,4 @@
-# elevon-deploy
+# setup-elevon
 
 Set up the Elevon CLI in your GitHub Actions workflow.
 
